@@ -17,7 +17,7 @@ ML-Based-temperature-monitoring-system/
 ├── README.md
 └── .gitignore
 ```
-## system_architecture
+## System_architecture
 
 ![image](https://github.com/user-attachments/assets/c092c42b-8b3f-462f-bc4f-74f35808cb32)
 
